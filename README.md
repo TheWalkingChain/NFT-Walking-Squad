@@ -1,2 +1,2 @@
-# NFT-Walking-Squad
-Rest of the visuals TheWalkingChain.io NFT Collection Zombie Gen0
+# NFT Walking Squad
+Repo of the visuals TheWalkingChain.io NFT Collection Zombie Gen0
