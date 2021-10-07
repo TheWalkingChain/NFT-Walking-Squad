@@ -1,9 +1,7 @@
 # NFT Walking Squad
 Repo of the visuals TheWalkingChain.io NFT Collection Zombie Gen0
 
-<p align="center">
 ![alt text](https://uploads-ssl.webflow.com/6156241264aeed8618ad4d76/615a25a24c057c8e7de8549a_TheWalkingChain-Normal.gif)
-</p>
 
 <p align="center">
   <span align="center">Website</span>
